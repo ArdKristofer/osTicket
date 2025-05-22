@@ -6,4 +6,4 @@ To begin this project I stated by downloading a few necessary tools: osTicket, H
 
 ![VMware Setup](vmwareSetup.png)
 
-After setting up my Windows 10 virtual machine, I powered it on and proceeded to install the tools that I downloaded earlier and endabled "Internet Information Services (IIS)".
+After setting up my Windows 10 virtual machine, I powered it on and proceeded to install the tools that I downloaded earlier and enabled "Internet Information Services (IIS)".
