@@ -10,4 +10,4 @@ After setting up my Windows 10 virtual machine, I powered it on and proceeded to
 
 ![Enable PHP](enablePHPext.png)
 
-I then reloaded IIS and enabled some PHP extensions (php_imap.dll, php_intl.dll, php_opcache.dll)
+I then reloaded IIS and enabled some PHP extensions (php_imap.dll, php_intl.dll, php_opcache.dll). Afterwards I continued setting up osTicket within my browser by providing my helpdesk with the name "helpdesk" and providing an email that will be used to receive tickets from customers.
