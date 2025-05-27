@@ -7,3 +7,7 @@ To begin this project I stated by downloading a few necessary tools: osTicket, H
 ![VMware Setup](vmwareSetup.png)
 
 After setting up my Windows 10 virtual machine, I powered it on and proceeded to install the tools that I downloaded earlier and enabled "Internet Information Services (IIS)".
+
+![Enable PHP](enablePHPext.png)
+
+I then reloaded IIS and enabled some PHP extensions (php_imap.dll, php_intl.dll, php_opcache.dll)
